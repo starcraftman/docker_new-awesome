@@ -1,2 +1,3 @@
 # docker_new-awesome
-Just a simple docker image for testing.
+
+Just a simple docker image for testing another project. You probably aren't interested.
